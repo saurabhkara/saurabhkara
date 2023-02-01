@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh !!</h1>
 <h3 align="center">A enthusiastic JavaScript Developer</h3>
+<h4 align="center">MERN Full-stack software Developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkara&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkara" /> </p>
 
 - 👯 I’m looking to collaborate on **React Native Projects**
-- 🌱 I’m currently learning **Swinft, SwiftUI**
+- 🌱 I’m currently learning **Swift, SwiftUI**
 
 
 - 📫 How to reach  **https://isaurabh.pages.dev/**
