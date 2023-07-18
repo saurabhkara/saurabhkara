@@ -5,14 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkara&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkara" /> </p>
 
 - 👯 I’m looking to collaborate on **React Native Projects**
-
-##
 - 📫 How to reach  **https://isaurabh.pages.dev/**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
-
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/1061982322490101800) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhkumar802/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i____saurabh)
 
 
 
