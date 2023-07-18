@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **React Native Projects**
 
-
+##
 - 📫 How to reach  **https://isaurabh.pages.dev/**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
@@ -15,8 +15,7 @@
 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/1061982322490101800) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhkumar802/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i____saurabh) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saurabhkara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabhkara&theme=dark&hide_border=false)<br/>
