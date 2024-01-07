@@ -9,12 +9,14 @@
 ---
 <h2 align="left">Articles:</h>
 
-React Design Patterns : 
+
+###React Design Patterns : 
 
 ---
 
 <h2 align="left">Projects:</h2>
- 
+
+### TIC TAC TOE in React
 
 ***
 
