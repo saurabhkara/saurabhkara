@@ -18,7 +18,7 @@
 
 <h4>TIC TAC TOE in React: </h4>
 
-- Project link
+- Project link <a href="https://github.com/saurabhkara/Tic-Tac-Toe-React"> Click to see Repo</a>
 - Repo link 
 
 ***
