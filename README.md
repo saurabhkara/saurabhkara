@@ -18,6 +18,9 @@
 
 <h4>TIC TAC TOE in React: </h4>
 
+- Project link
+- Repo link 
+
 ***
 
 
