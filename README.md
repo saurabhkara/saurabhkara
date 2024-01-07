@@ -10,13 +10,13 @@
 <h2 align="left">Articles:</h>
 
 
-###React Design Patterns : 
+<h3>React Design Patterns : </h3>
 
 ---
 
 <h2 align="left">Projects:</h2>
 
-### TIC TAC TOE in React
+<h3>TIC TAC TOE in React: </h3>
 
 ***
 
