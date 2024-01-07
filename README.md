@@ -7,13 +7,14 @@
 - 👯 I’m looking to collaborate on **React Native Projects**
 - 📫 Portfolio link  **https://isaurabh.pages.dev/**
 ---
-<h3 align="left">Articles:</h3>
+<h2 align="left">Articles:</h>
 
 React Design Patterns : 
 
 ---
 
-<h3 align="left">Projects:</h3>
+<h2 align="left">Projects:</h2>
+ 
 
 ***
 
