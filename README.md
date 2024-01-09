@@ -11,13 +11,14 @@
 
 
 <h4>React Design Patterns : </h4>
+
 - Repo link &nbsp;<a href="https://github.com/saurabhkara/React-Design-Pattern">Click to see</a>
 
 --- 
 https://github.com/saurabhkara/React-Design-Pattern
 <h2 align="left">Projects:</h2>
 
-<h4>TIC TAC TOE in React: </h4>
+<h4>Tic Tac Toe in React: </h4>
 
 - Project link &nbsp;<a href="https://tic-tac-toe-react-cck.pages.dev/">Click to see</a>
 - Repo link &nbsp;<a href="https://github.com/saurabhkara/Tic-Tac-Toe-React">Click to see</a>
