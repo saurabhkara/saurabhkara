@@ -18,6 +18,9 @@
 
 <h2 align="left">Projects:</h2>
 
+<h4>E-commerce search-filter system: </h4>
+- Repo link &nbsp;<a href="https://github.com/saurabhkara/Ecommerce-Search-Filter-System">Click to see</a>
+
 <h4>Tic Tac Toe in React: </h4>
 
 - Project link &nbsp;<a href="https://tic-tac-toe-react-cck.pages.dev/">Click to see</a>
