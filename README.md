@@ -19,9 +19,11 @@
 <h2 align="left">Projects:</h2>
 
 <h4>E-commerce search-filter system: </h4>
+
 - Repo link &nbsp;<a href="https://github.com/saurabhkara/Ecommerce-Search-Filter-System">Click to see</a>
 
 <h4>TODO app using Redux</h4>
+
 - Project link &nbsp;<a href="https://todo-app-redux.pages.dev/">Click to see</a>
 - Repo link &nbsp;<a href="https://github.com/saurabhkara/Redux-Practice">Click to see</a>
 
