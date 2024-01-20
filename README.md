@@ -18,6 +18,10 @@
 
 <h2 align="left">Projects:</h2>
 
+<h4>Paginataion Searching Sorting</h4>
+
+- Repo link &nbsp;<a href="https://github.com/saurabhkara/Pagination-practice">Click to see</a>
+
 <h4>E-commerce search-filter system: </h4>
 
 - Repo link &nbsp;<a href="https://github.com/saurabhkara/Ecommerce-Search-Filter-System">Click to see</a>
