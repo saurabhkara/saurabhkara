@@ -18,6 +18,10 @@
 
 <h2 align="left">Projects:</h2>
 
+<h4>Stopwatch</h4>
+
+- Repo link &nbsp;<a href="https://github.com/saurabhkara/stopwatch-react">Click to see</a>
+
 <h4>Paginataion Searching Sorting</h4>
 
 - Repo link &nbsp;<a href="https://github.com/saurabhkara/Pagination-practice">Click to see</a>
