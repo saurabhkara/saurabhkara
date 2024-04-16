@@ -14,6 +14,10 @@
 
 - Repo link &nbsp;<a href="https://github.com/saurabhkara/React-Design-Pattern">Click to see</a>
 
+<h4>SOLID Principles : </h4>
+
+- Repo link &nbsp;<a href="https://github.com/saurabhkara/SOLID-principles">Click to see</a>
+
 --- 
 
 <h2 align="left">Projects:</h2>
