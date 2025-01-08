@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **React Native Projects**
 - 📫 Portfolio link  **https://isaurabh.pages.dev/**
 ---
-<h2 align="left">Articles:</h>
+<h2 align="left">Articles:</h2>
 
 
 <h4>React Design Patterns : </h4>
@@ -19,7 +19,8 @@
 - Repo link &nbsp;<a href="https://github.com/saurabhkara/SOLID-principles">Click to see</a>
 
 --- 
-
+<h2 align="left">Practice Questions:</h2>
+---
 <h2 align="left">Projects:</h2>
 
 <h4>Stopwatch</h4>
