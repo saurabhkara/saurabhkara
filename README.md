@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkara&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkara" /> </p>
 
 - 👯 I’m looking to collaborate on **React Native Projects**
-- 📫 Portfolio link  **https://isaurabh.pages.dev/**
 ---
 <h2 align="left">Articles:</h2>
 
