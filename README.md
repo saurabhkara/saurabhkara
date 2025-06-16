@@ -9,14 +9,6 @@
 <h2 align="left">Articles:</h2>
 
 
-<h4>React Design Patterns : </h4>
-
-- Repo link &nbsp;<a href="https://github.com/saurabhkara/React-Design-Pattern">Click to see</a>
-
-<h4>SOLID Principles : </h4>
-
-- Repo link &nbsp;<a href="https://github.com/saurabhkara/SOLID-principles">Click to see</a>
-
 --- 
 <h2 align="left">Practice Questions:</h2>
 
@@ -37,6 +29,14 @@
 <h4>YAML </h4>
 
 - Repo link &nbsp;<a href="https://github.com/saurabhkara/YAML-learning">Click to see</a>
+
+<h4>SOLID Principles : </h4>
+
+- Repo link &nbsp;<a href="https://github.com/saurabhkara/SOLID-principles">Click to see</a>
+
+<h4>React Design Patterns : </h4>
+
+- Repo link &nbsp;<a href="https://github.com/saurabhkara/React-Design-Pattern">Click to see</a>
 
 ---
 <h2 align="left">Projects:</h2>
