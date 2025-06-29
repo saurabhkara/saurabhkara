@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkara&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkara" /> </p>
 
 - 👯 I’m looking to collaborate on **React Native Projects**
----
-<h2 align="left">Articles:</h2>
-
 
 --- 
 <h2 align="left">Practice Questions:</h2>
@@ -52,6 +49,10 @@
 
 ---
 <h2 align="left">Projects:</h2>
+
+<h4>My First AI Agent: Expense Tracking AI Agent</h4>
+
+- Repo link &nbsp;<a href="https://github.com/saurabhkara/First-AI-Agent">Click to see</a>
 
 <h4>Stopwatch</h4>
 
